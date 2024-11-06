@@ -1,0 +1,5 @@
+<?php 
+// ## First Comment  // correct
+# // # Second Comment // correct
+/* /* /* Third Comment */ // correct
+////// Fourth Comment // correct
